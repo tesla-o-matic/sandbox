@@ -4,7 +4,7 @@
 
 EMAIL=$1
 USER_AGENT=`basename $0`
-ASSWORD=$2
+PASSWORD=$2
 
 curl \
     -s \
